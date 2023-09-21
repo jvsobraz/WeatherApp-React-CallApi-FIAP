@@ -4,7 +4,7 @@ import { Search, SearchIcon, SearchDiv } from '../../style/styled';
 export default function WeatherApp() {
 
   const api = {
-    key: "55b61754175b5d05afaf196fc9c76dfd",
+    key: "e5d55877d7ef290e791dd048dfd1bbaa",
     base: "https://api.openweathermap.org/data/2.5/"
   }
 
